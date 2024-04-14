@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ErArunSharma91/gymdemo.git/static/css/main.15a74540.css",
+    "main.js": "/ErArunSharma91/gymdemo.git/static/js/main.9f877f6a.js",
+    "static/js/453.be4355ae.chunk.js": "/ErArunSharma91/gymdemo.git/static/js/453.be4355ae.chunk.js",
+    "static/media/Watch.png": "/ErArunSharma91/gymdemo.git/static/media/Watch.b444ac08929c9425ca2c.png",
+    "static/media/Group.png": "/ErArunSharma91/gymdemo.git/static/media/Group.c74cec33bba108729792.png",
+    "index.html": "/ErArunSharma91/gymdemo.git/index.html",
+    "main.15a74540.css.map": "/ErArunSharma91/gymdemo.git/static/css/main.15a74540.css.map",
+    "main.9f877f6a.js.map": "/ErArunSharma91/gymdemo.git/static/js/main.9f877f6a.js.map",
+    "453.be4355ae.chunk.js.map": "/ErArunSharma91/gymdemo.git/static/js/453.be4355ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a74540.css",
+    "static/js/main.9f877f6a.js"
+  ]
+}
